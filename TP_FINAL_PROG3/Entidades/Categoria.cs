@@ -13,7 +13,7 @@ namespace Entidades
 
         public Categoria()
         {
-
+            //hello world.
         }
 
         public int Id { get => id; set => id = value; }
